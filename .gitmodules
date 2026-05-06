@@ -10,3 +10,6 @@
 [submodule "HIT-HRadar-FE"]
 	path = HIT-HRadar-FE
 	url = https://github.com/Human-Intelligence-Team/HIT-HRadar-FE
+[submodule "HIT-HRadar-Notification"]
+	path = HIT-HRadar-Notification
+	url = https://github.com/Human-Intelligence-Team/HIT-HRadar-Notification
