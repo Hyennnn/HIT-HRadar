@@ -13,3 +13,6 @@
 [submodule "HIT-HRadar-Notification"]
 	path = HIT-HRadar-Notification
 	url = https://github.com/Human-Intelligence-Team/HIT-HRadar-Notification
+[submodule "HIT-HRadar-Chatbot"]
+	path = HIT-HRadar-Chatbot
+	url = https://github.com/Human-Intelligence-Team/HIT-HRadar-Chatbot
