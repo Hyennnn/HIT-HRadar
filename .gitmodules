@@ -19,3 +19,6 @@
 [submodule "HIT-HRadar-Auth"]
 	path = HIT-HRadar-Auth
 	url = https://github.com/Human-Intelligence-Team/HIT-HRadar-Auth
+[submodule "HIT-HRadar-Gateway"]
+	path = HIT-HRadar-Gateway
+	url = https://github.com/Human-Intelligence-Team/HIT-HRadar-Gateway
