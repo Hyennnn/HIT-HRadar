@@ -7,3 +7,6 @@
 [submodule "HIT-HRadar-Core"]
 	path = HIT-HRadar-Core
 	url = https://github.com/Human-Intelligence-Team/HIT-HRadar-Core
+[submodule "HIT-HRadar-FE"]
+	path = HIT-HRadar-FE
+	url = https://github.com/Human-Intelligence-Team/HIT-HRadar-FE
