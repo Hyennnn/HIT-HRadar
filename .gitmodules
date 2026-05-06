@@ -16,3 +16,6 @@
 [submodule "HIT-HRadar-Chatbot"]
 	path = HIT-HRadar-Chatbot
 	url = https://github.com/Human-Intelligence-Team/HIT-HRadar-Chatbot
+[submodule "HIT-HRadar-Auth"]
+	path = HIT-HRadar-Auth
+	url = https://github.com/Human-Intelligence-Team/HIT-HRadar-Auth
