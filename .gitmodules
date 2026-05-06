@@ -1,3 +1,9 @@
 [submodule "libs/my-lib"]
 	path = libs/my-lib
 	url = https://github.com/Human-Intelligence-Team/HIT-HRadar-Core
+[submodule "HIT-HRadar"]
+	path = HIT-HRadar
+	url = https://github.com/Human-Intelligence-Team/HIT-HRadar-Core
+[submodule "HIT-HRadar-Core"]
+	path = HIT-HRadar-Core
+	url = https://github.com/Human-Intelligence-Team/HIT-HRadar-Core
